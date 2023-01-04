@@ -48,7 +48,7 @@
 					Sexo:
 				</td>
 				<td>
-					<input type="radio" name="sexo" value="masculino" /> Masculino
+					<input type="radio" name="sexo" value="masculino"  checked='checked'/> Masculino
 					<input type="radio" name="sexo" value="feminino" /> Feminino
 				</td>
 			</tr>
