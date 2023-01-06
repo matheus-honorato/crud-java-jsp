@@ -22,7 +22,7 @@ Pré-requisitos: Java 11
 # clonar repositório
 # baixar o arquivo sql e executar no MySQL Workbench 8.0 CE
 # abrir o projeto no eclipse
-# configurar as conexões no arquivo ConnectionFactory
+# configurar as conexões no arquivo Dao
 ```
 
 # Autor
