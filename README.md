@@ -16,14 +16,15 @@ O objetivo deste projeto é realizar um CRUD utilizando Java e JSP com integraç
 - XAMPP
 
 # Como executar o projeto
-Pré-requisitos: Java 11
+Pré-requisitos: Java 8 ou superior
+```
+- Baixe o Eclipse IDE.
+- Baixe o Tomcat 8.5.
+- Baixe o SQL (Você pode baixar o MySQL Workbench).
+- Baixe o repositório da aplicação.
+- Configurar as conexões no arquivo Dao
+```
 
-```
-# clonar repositório
-# baixar o arquivo sql e executar no MySQL Workbench 8.0 CE
-# abrir o projeto no eclipse
-# configurar as conexões no arquivo Dao
-```
 
 # Autor
 
